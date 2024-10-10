@@ -8,6 +8,16 @@ https://github.com/362228416/lua-resty-oss
 
 ## Table Of Contents
 
+[Description](#Description)
+
+[Status](#Status)
+
+[Synopsis](#Synopsis)
+
+​	[oss.new](#oss.new)
+
+​	[oss_client:get_object](#oss_client:get_object)
+
 
 
 ## Description
@@ -16,7 +26,7 @@ https://github.com/362228416/lua-resty-oss
 
 ## Status
 
-Develop.
+Experimental.
 
 ##  Synopsis
 
