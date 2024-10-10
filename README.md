@@ -8,7 +8,13 @@ https://github.com/362228416/lua-resty-oss
 
 ## Table Of Contents
 
-[TOC]
+- [Description](#Description)
+- [Status](#Status)
+- [Synopsis](#Synopsis)
+-    [oss.new](#oss_new)
+-    [oss_client:get_object](#oss_client_get_object)
+
+
 
 
 ## Description
