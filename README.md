@@ -14,9 +14,9 @@ https://github.com/362228416/lua-resty-oss
 
 [Synopsis](#Synopsis)
 
-​	[oss.new](#oss.new)
+​	[oss.new](#oss.new) 
 
-​	[oss_client:get_object](#oss_client:get_object)
+​	[oss_client:get_object](#oss_client:get_object) 
 
 
 
